@@ -1,2 +1,3 @@
 name: Nour El Husseini, GRA
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
