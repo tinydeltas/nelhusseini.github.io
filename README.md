@@ -1,13 +1,7 @@
-# nelhusseini.github.io
-Personal webpage
+# Hi there, I'm Nour El Husseini!
 
----
-layout: default
-title: Nour El Husseini, GRA 
----
-	
-	
-### Hi there, I'm Nour El Husseini!
+![](https://github.com/nelhusseini/nelhusseini.github.io/blob/main/images/IMG_4878_Original.jpg)
 
 I'm a graduate student at University of Maryland. [Read more about my life](https://nelhusseini.github.io/about/)
-</div><!-- /.blurb -->
+
+
