@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nour El Husseini, Launches Site"
+title: "Nour El Husseini Launches Site"
 date: 2014-04-11
 ---
 
