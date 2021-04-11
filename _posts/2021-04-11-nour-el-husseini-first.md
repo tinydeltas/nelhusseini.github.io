@@ -5,3 +5,15 @@ date: 2021-04-11
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+
+![](https://github.com/nelhusseini/master/images/IMG_4878_Original.jpg)
+
+# About me
+
+Include things about me
+* first
+* second 
+* third
+
+## Education
+Undergrad
