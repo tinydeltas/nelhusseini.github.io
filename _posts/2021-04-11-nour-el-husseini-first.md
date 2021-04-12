@@ -10,4 +10,4 @@ date: 2021-04-11
 
 I'm still *very* new to this whole thing, but I'm going to shoot my shot at running a personal website. I'm still undecided on whether or not to also use this as a electronic laboratory notebook as well. Will ponder this further. 
 
-- Nour
+\- Nour
