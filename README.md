@@ -1,6 +1,6 @@
 # Hi there, I'm Nour El Husseini!
 
-<img src="https://github.com/nelhusseini.github.io/images/Nour.jpg" style="display: block; margin: auto;" />
+<img src="https://nelhusseini.github.io/images/Nour.jpg" style="display: block; margin: auto;" />
 
 <img src="https://github.com/nelhusseini/nelhusseini.github.io/blob/main/images/Nour.jpg" alt="Nour_El-Husseini" width="250"/>
 
