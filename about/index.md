@@ -19,6 +19,7 @@ I enrolled in Auburn University's Master of Aquaculture program in summer 2017. 
 ## Can Tho, Vietnam
 
 ## Nha Trang, Vietnam
+<img src="https://nelhusseini.github.io/images/IMG_1370_Original.jpg" alt="Auburn Fisheries Station" width="500" />
 
 
 ## College Park, Maryland
