@@ -5,4 +5,4 @@
 
 I'm a second year doctoral graduate student at University of Maryland.  [Read more about my life](https://nelhusseini.github.io/about/)
 
-I'm most passionate about contributing to global food security through genetic improvement of aquaculture species. This site will highlight my work and other projects I'm interested in. Feel free to contact me below if you have any questions!
+Use this site to discover my work and other projects I'm interested in. Feel free to contact me below if you have any questions!
