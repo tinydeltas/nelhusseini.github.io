@@ -2,8 +2,7 @@
 
 <img src="https://github.com/nelhusseini.github.io/images/Nour.jpg" style="display: block; margin: auto;" />
 
-
-<img src="https://github.com/nelhusseini.github.io/blob/main/images/Nour.jpg" alt="Nour_El-Husseini" width="250"/>
+<img src="https://github.com/nelhusseini/nelhusseini.github.io/blob/main/images/Nour.jpg" alt="Nour_El-Husseini" width="250"/>
 
 I'm a second year doctoral graduate student at University of Maryland.  [Read more about my life](https://nelhusseini.github.io/about/)
 
