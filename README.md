@@ -5,4 +5,4 @@
 
 I'm a second year doctoral student at University of Maryland.  [Read more about my life](https://nelhusseini.github.io/about/)
 
-Use this site to discover my work and other projects I'm interested in. Feel free to contact me below if you have any questions!
+Use this site to discover my work and other projects I'm interested in. Feel free to contact me using any of the platforms below if you have any questions!
