@@ -8,6 +8,6 @@ date: 2021-04-11
 
 <iframe src="https://giphy.com/embed/12PhfWZDEgVbXi" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-happy-excited-12PhfWZDEgVbXi">via GIPHY</a></p>
 
-I'm still *very* new to this whole thing, but I'm going to shoot my shot at running a personal website. I'm still undecided on whether or not to also use this as a electronic laboratory notebook as well. Will ponder this further. 
+I'm still *very* new to this whole thing, but I'm going to shoot my shot at running a personal website. I might also use this blog as a electronic laboratory notebook, too. Will ponder this further. 
 
 \- Nour
