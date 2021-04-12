@@ -12,12 +12,14 @@ I'm a pre-candidate doctoral student in the Department of Animal and Avian Scien
 For my undergraduate studies, I attended the American University of Beirut in my hometown of Beirut, Lebanon. Agricultural Engineering program. 
 		
 ## Auburn, Alabama
+<img src="https://nelhusseini.github.io/images/fishier.png.jpeg" alt="Auburn Fisheries Station" width="500" />
 
 I enrolled in Auburn University's Master of Aquaculture program in summer 2017. Auburn's E.W. Research Fisheries Station is a world renowned and world class facility; home to much of the pioneering research in pond aquaculture. 
 
 ## Can Tho, Vietnam
 
 ## Nha Trang, Vietnam
+
 
 ## College Park, Maryland
 
