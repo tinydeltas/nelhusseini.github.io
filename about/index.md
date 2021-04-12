@@ -12,11 +12,13 @@ For my undergraduate studies, I attended the American University of Beirut in my
 		
 ## Auburn, Alabama
 <img src="https://nelhusseini.github.io/images/40AB654E-3A4E-4337-AAB0-D0942E71582F.JPG" alt="Nour_El-Husseini" width="500" />
+I enrolled in Auburn University's Master of Aquaculture program in summer 2017. Auburn's E.W. Research Fisheries Station is a world renowned and world class facility; home to much of the pioneering research in pond aquaculture. 
 
+## Can Tho, Vietnam
+<img src="https://nelhusseini.github.io/images/4IMG_2014_Original.JPG" alt="Nour_El-Husseini" width="500" />
 
 ## Nha Trang, Vietnam
 <img src="https://nelhusseini.github.io/images/Nour.jpg" alt="Nour_El-Husseini" width="500" />
-
 
 ## College Park, Maryland
 <img src="https://nelhusseini.github.io/images/IMG_1630_Original.jpg" alt="Nour_El-Husseini" width="500" />
