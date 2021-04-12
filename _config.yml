@@ -10,7 +10,7 @@ theme: jekyll-theme-cayman
 author:
   name:         Nour El Husseini
   email:        nbh@umd.edu
-  url:          https://inelaah.com
+  url:          https://github.com/nelhusseini.io
 
 # Build settings
 markdown:       kramdown
