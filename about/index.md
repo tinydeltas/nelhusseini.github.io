@@ -15,7 +15,7 @@ For my undergraduate studies, I attended the American University of Beirut in my
 I enrolled in Auburn University's Master of Aquaculture program in summer 2017. Auburn's E.W. Research Fisheries Station is a world renowned and world class facility; home to much of the pioneering research in pond aquaculture. 
 
 ## Can Tho, Vietnam
-<img src="https://nelhusseini.github.io/images/4IMG_2014_Original.JPG" alt="Nour_El-Husseini" width="500" />
+<img src="https://nelhusseini.github.io/images/IMG_2014_Original.jpg" alt="Nour_El-Husseini" width="500" />
 
 ## Nha Trang, Vietnam
 <img src="https://nelhusseini.github.io/images/Nour.jpg" alt="Nour_El-Husseini" width="500" />
