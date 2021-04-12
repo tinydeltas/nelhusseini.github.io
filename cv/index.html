@@ -3,9 +3,5 @@ layout: default
 title: Nour El Husseini's CV
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<a href="/pdfs/CV-April2021.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
