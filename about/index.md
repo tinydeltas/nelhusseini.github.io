@@ -7,8 +7,9 @@ title: About Nour El Husseini
 I'm a pre-candidate doctoral student in the Department of Animal and Avian Sciences at University of Maryland, College Park. I'm passionate about providing food security through sustainable aquaculture. 
 
 ## Beirut, Lebanon
+<img src="https://nelhusseini.github.io/images/american-university-beirut-aub_929.jpg" alt="American University of Beirut" width="500" />
 
-For my undergraduate studies, I attended the American University of Beirut in my hometown of Beirut, Lebanon. I was moved by the 
+For my undergraduate studies, I attended the American University of Beirut in my hometown of Beirut, Lebanon. Agricultural Engineering program. 
 		
 ## Auburn, Alabama
 
