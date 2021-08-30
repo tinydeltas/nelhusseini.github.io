@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 title: About Nour El Husseini
 ---
 # Hi there, I'm Nour El Husseini!
