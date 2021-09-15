@@ -9,7 +9,7 @@ I'm a pre-candidate doctoral student in the Department of Animal and Avian Scien
 ## Beirut, Lebanon
 <img src="https://nelhusseini.github.io/images/american-university-beirut-aub_929.jpg" alt="American University of Beirut" width="500" />
 
-For my undergraduate studies, I attended the American University of Beirut in my hometown of Beirut, Lebanon. Agricultural Engineering program. 
+For my undergraduate studies, I attended the American University of Beirut (AUB) in my hometown of Beirut, Lebanon. At AUB, I was a part of the Agricultural Engineering program, which sends third year students to the AREC campus Bekaa valley, giving students ample land to put theory to practice. I ran an aquaponics experiment, and my love for aquaculture was born. The experiment failed miserably. Still, I loved aquaculture and wanted to learn more. 
 		
 ## Auburn, Alabama
 <img src="https://nelhusseini.github.io/images/fishier.png.jpeg" alt="Auburn Fisheries Station" width="500" />
