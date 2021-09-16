@@ -16,7 +16,7 @@ I heard back from the company I asked for a quote on a chiller for the ATL. Due 
 I didn't get a chance to troubleshoot the DNA extraction yesterday. I will do that tomorrow morning. 
 
 ##### Miscellaneous 
-- ordered new D.O. cable+probe for the YSI 200A meter
+I ordered new D.O. cable+probe for the YSI 200A meter
 
 
 *Today's tasks*
