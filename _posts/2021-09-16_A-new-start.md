@@ -4,7 +4,7 @@ title: "A New Start"
 date: 2021-09-16
 ---
 
-Time is flying by! It's already Thursday and I have to prepare for tomorrow's group meeting. I've been still getting settled into the semester and I've spent a lot of time prepping for the student's experiment for my TA class, but things ~~should~~ settle down by next week. I'm workshopping a few ideas for possible high risk-high gain experiments. 
+Time is flying by! It's already Thursday and I have to prepare for tomorrow's group meeting. I've been still getting settled into the semester and I've spent a lot of time prepping for the student's experiment for my TA class, but things *should* settle down by next week. I'm workshopping a few ideas for possible high risk-high gain experiments. 
 
 RNA-seq analysis is going... okay? I'm not sure that removal of duplicate sequences is going to work. CLC is removing ~75-80% of the reads. This is going to normalize all samples and remove any variation due to treatment (my guess). But I'll see what happens. Also, I think I can use the new Vienna assembly! I was able to map my trimmed reads to it. I will need an annotation file eventually, but I'm hoping Dr. Tobasei can help me on this. 
 
