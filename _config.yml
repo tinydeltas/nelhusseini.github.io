@@ -4,7 +4,7 @@ description:    "Personal website for Nour El Husseini."
 url:            https://github.com/nelhusseini.io
 
 # Theme
-theme: jekyll-theme-cayman
+theme: minima
 
 # Author
 author:
