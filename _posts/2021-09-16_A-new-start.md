@@ -17,11 +17,9 @@ I didn't get a chance to troubleshoot the DNA extraction yesterday. I will do th
 
 <input type="checkbox" disabled="disabled" checked="checked"> teach lecture for ANSC-255 on fish health
 
-<input type="checkbox" disabled="disabled"> determine chiller size needed for ATL 
-
 <input type="checkbox" disabled="disabled" checked="checked"> ask about disease challenges in animal wing 
 
-<input type="checkbox" disabled="disabled"> write preliminary experimental design for stress project and send to Ali for review
+<input type="checkbox" disabled="disabled"> write preliminary experimental design for stress project and send to Ali for review, determine chiller size needed for ATL 
 
 <input type="checkbox" disabled="disabled"> check mapping results for RNA-seq, remove duplicates and rerun RNA-seq count in CLC
 
