@@ -4,7 +4,7 @@ description:    "Personal website for Nour El Husseini."
 url:            https://github.com/nelhusseini.io
 
 # Theme
-theme: minima
+theme: jekyll-theme-cayman
 
 # Author
 author:
@@ -24,7 +24,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink: /blog/:year/:month/:day/:title
