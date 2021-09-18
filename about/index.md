@@ -1,6 +1,7 @@
 ---
-layout: center
-title: About Nour El Husseini
+layout: page
+title: "About Nour El Husseini"
+permalink: /about
 ---
 # Hi there, I'm Nour El Husseini!
 
